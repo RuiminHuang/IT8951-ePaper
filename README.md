@@ -2,7 +2,7 @@
 下载并编译Demo程序，执行如下命令进行下载并编译：
 ```shell
 git clone https://github.com/waveshare/IT8951-ePaper.git
-cd IT8951
+cd IT8951-ePaper
 make
 ```
 从FPC线上查看VCOM数值，例如下图：
