@@ -6,7 +6,9 @@ cd IT8951
 make
 ```
 从FPC线上查看VCOM数值，例如下图：
+
 ![](http://huangruimin.club//20191218185933.png)
+
 执行程序，并且注意VCOM值作为输入参数
 ```shell
 sudo ./epd -2.51
